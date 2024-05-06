@@ -1,7 +1,7 @@
 
 # Daily task management with Laravel and Native php
 
-This project is ideal for those looking to understand the integration of native PHP within a Laravel project, as well as for anyone needing a straightforward task management tool.
+This project is ideal for those looking to understand the integration of native PHP within a Laravel project, as well as for anyone needing a straightforward task management tool as a desktop application.
 
 ## Installation
 Clone the repository locally
